@@ -1,0 +1,27 @@
+body{
+  background-color: #1e3a43;
+  color: rgb(243, 160, 160);
+}
+
+h1{
+  text-align: center;
+}
+
+h3{
+  margin: 10px;
+}
+
+button{
+  color: white;
+  background-color: rgb(180, 210, 210);
+  padding: 10px 15px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.HOC{
+  font-size: 1.2rem;
+  margin: 20px 0;
+}
